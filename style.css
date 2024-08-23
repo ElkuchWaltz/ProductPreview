@@ -67,6 +67,7 @@ main {
 .mobile-img {
   display: block;
   border-radius: 1rem 1rem 0rem 0rem;
+  width: 100%;
 }
 
 .desktop-img {
